@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yasith-Thathsara-Senarathne
 - 👀 I’m interested in iOS App Development, Hybrid App Development
 - 🌱 I’m currently learning Flutter, Node.js
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on mobile app developments.
 - 📫 How to reach me - thathsaraofficial@gmail.com
 
 <!---
